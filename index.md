@@ -1,82 +1,78 @@
 ---
 layout: cv
-title: Denis Roussel's CV
+title: Sandrine Roussel's resume
 ---
-# Denis Roussel
-Data Scientist
+# Sandrine Roussel
+Analyst developer
 
 <div id="webaddress">
-<a href="deroussel@gmail.com">deroussel@gmail.com</a><br>
-(+33) 6 29 22 32 49
+<a href="prumsandrine@gmail.com">prumsandrine@gmail.com</a><br>
+(+33) 6 19 27 88 60
 </div>
 
 ## Skills
 
-__Machine Learning__
-Attentively design machine learning models based on data understanding and analysis through an investigation of the business.
+__Mainframe__
 
-* -- Specialized in time serie modeling: univariate/multivariate, multi-horizon.
-* -- Develop custom web applications to be used both internally and by the final client (dash, shiny).
-* -- Document and communicate data analysis using notebooks: jupyter notebooks or rmarkdown.
+* -- Maintain, support and enhance existing applications with Cobol : Batch and TP (Transaction Processing).
 
-__MLOps__
-Design architecture and deployment of MLOps services.
+__Devbooster__
 
-* -- Build operational pipeline in collaboration with dataOps team to automatically train, predict and observe new data.
-* -- Create dashboard to monitor models and their performance (grafana or custom dashboards).
+* -- Maintain, support and enhance existing applications in Devbooster : intern language base on C#.
 
-__Project Direction__
-Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+__Projects__
 
-* -- Organize ML projects in collaboration with project managers
-* -- Lead technical interviews for new recruitees.
-* -- Animates ML team in an agile environment (daily meetings, sprints, code review, pair programming, etc.).
+* -- Organize projects in collaboration with project managers.
+* -- Contribute to project plans, estimations and status updates.
+* -- Generate functional and technical specifications to design or redesign applications.
+* -- Manage and supervise external developers.
+* -- Build and test applications.
 
+__Finance's applications__
+
+* -- Balance sheet application for internal use : database is bought (batch) and can be create by account managers.
+* -- Compagny data application for internal use : containing all the key data about a company.
+* -- Factoring application for the management of invoices.
 
 ## Technical
 
-Python, R
+Cobol, DB2, JCL, SQL, IMS, C#
 
-git
+RTC (Rational Team Concert), RDZ (Rational Developer for System z)
 
-Linux, OSX
+PCOM, TSO, Visual studio, ALM/Quality Center
 
-Docker
-
-AWS (ec2, s3, dynamodb)
 
 ## Experience
 
-`2019 - 2022`
-__Data Scientist__, Centreon (Paris/remote)
+`2014 - 2022`
+__Analyst developer__, Euro-Information (Tassin-la-demi-lune, France)
 
-Design, develop and deploy the first Machine Learning cloud services.
+Maintain, support and develop intranet applications with Cobol and Devbooster (C#).
+ 
+* -- Make sure applications are free of common coding vulnerabilities (and follow standard security practices).
+* -- Technical support for 3 teams.
 
-* -- Create the first ML service within the company for anomaly detection.
-* -- 200 models trained in production each day, 8 clients served.
-* -- Democratized AI within the company and outside through presentations at conferences (POSS 2019, Opensource Experience 2020), meetups (DevOps Geneva 2021), school courses (EPITECH 2020 and 2021, ESGI 2022, Epita 2021) and internal meetings.
+`2012 - 2014`
+__Analyst developer__, HN Service (Tassin-la-demi-lune, France)
+On assignement at Euro-Information
 
-`2016 - 2019`
-__Lead Data Scientist__, Datapole (Paris/remote)
+* -- Maintain and develop intranet applications with Cobol.
 
-Create and deploy ML services, organize project and lead the data team.
-
-* -- Develop a parallelized autoML algorithm able to pick the right model for a given time serie dataset.
-* -- Create custom applications for a top tier client on text analysis (clustering and sentiment analysis about technical topics).
-* -- Accompanied a team of 5 data scientists and a data engineer to help develop the SaaS platform.
+`May 2012 - July 2012`
+__Training__ of 9 weeks up to 35 hours per week, HN Service (Paris).
+* -- Mainframe z/OS, COBOL, JCL, VSAM, DB2, TSO/ISPF, IMS, SQL, CICS
 
 ## Education
 
-`Jul 2015`
-__PhD in Material Science__, Université de Grenoble Alpes
+`September 2011`
+__Master's degree in organic chemistry__, UHA (Université de Haute Alsace)
+__Engineering degree in organic chemistry__, ENSCMu (École Nationale Supérieure de Chimie de Mulhouse)
 
-`Sept 2011`
-__Master degree Physic__, Université de Lille
-
-`Sept 2011`
-__Engineering School Chemistry__, École Nationale Supérieure de Chimie de Lille
+`September 2007 - September 2011`
+__Engineering School Chemistry__, ENSCMu (École Nationale Supérieure de Chimie de Mulhouse)
 
 
 <!-- ### Footer
 
-Denis Roussel -- [droussel@centreon.com](droussel@centreon.com) -- +33 6 29 22 32 49 -->
+Sandrine Roussel -- [prumsandrine@gmail.com](prumsandrine@gmail.com) -- +33 6 19 27 88 60 -->
